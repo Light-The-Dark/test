@@ -1,0 +1,4 @@
+# Messing with gitignore
+# *.txt wildcard
+
+secret_text.txt
